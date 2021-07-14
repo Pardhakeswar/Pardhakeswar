@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pardhakeswar
-     - Senior Software Engineer at @Nvidia cloud  
+     - Senior Software Engineer at @Nvidia cloud platform 
 - 👀 I’m interested in 
      - kubernetes, docker, containers. 
 - 🌱 I’m currently Working on
