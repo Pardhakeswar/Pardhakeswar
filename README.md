@@ -3,7 +3,7 @@
 - 👀 I’m interested in 
      - kubernetes, docker, containers. 
 - 🌱 I’m currently Working on
-     - enhancments for ovn-kubernetes CNI.
+     - enhancing ovn-kubernetes CNI.
      - enhancing go-ovn library. 
 - 📫 How to reach me 
      - email : ppacha@ncsu.edu
