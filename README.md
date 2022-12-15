@@ -3,10 +3,10 @@
 - 👀 I’m interested in 
      - kubernetes, docker, containers. 
 - 🌱 I’m currently Working on
-     - enhancing ovn-kubernetes CNI.
+     - Customizing and enhancing ovn-kubernetes CNI for Nvidia cloud platform.
      - enhancing go-ovn library. 
 - 📫 How to reach me 
-     - email : ppacha@ncsu.edu
+     - email : pardha.keswar729@gmail.com
      - Phone : 919-633-7645
      
 
